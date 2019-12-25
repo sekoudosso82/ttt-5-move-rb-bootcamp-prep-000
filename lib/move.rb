@@ -14,5 +14,6 @@ def input_to_index(arg)
 end
 
 def move()
+  bor
 end 
   
